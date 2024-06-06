@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Drumitch
-- 👀 I’m interested in learning the world of code.
-- 🌱 I’m currently learning how to wait patiently for college classes to start.
+- 👀 I’m learning Python at the moment.
+- 🌱 I hold an A.A. in Computer Science.
 - 💞️ I’m looking to collaborate on gaming projects.
 - 📫 You can reach me at @its_just_me_andy on IG. Just tell me who you are and what you're messaging about or I'm likely not going to respond.
 
